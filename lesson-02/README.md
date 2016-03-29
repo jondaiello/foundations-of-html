@@ -3,7 +3,7 @@
 ## Software You’ll Need
 To get started, we’ll need two pieces of software to work on our project:
 
-First, we’ll need a text editor. And that’s exactly what it sounds like. It’s a simple program that allows you to write, edit and update text. Personally, I recommend Atom.io. It’s free, and that’s what we’ll be using in this course to edit our text. Plus, there are a ton of really helpful addons that you can install to help you out and improve the development process. You can also use a program like Notepad, TextEdit, or other basic text editing program, but be sure you’re saving your files in raw text, not Rich Text Editing.
+First, we’ll need a text editor. And that’s exactly what it sounds like. It’s a simple program that allows you to write, edit and update text. Personally, I recommend [Atom.io](https://atom.io/). It’s free, and that’s what we’ll be using in this course to edit our text. Plus, there are a ton of really helpful addons that you can install to help you out and improve the development process. You can also use a program like Notepad, TextEdit, or other basic text editing program, but be sure you’re saving your files in raw text, not Rich Text Editing.
 
 Next you’ll need a web browser. 
 
