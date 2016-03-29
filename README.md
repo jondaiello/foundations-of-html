@@ -7,7 +7,7 @@ In this 10 part series where we will explore what HTML is and how we can use it 
 3. Learn how to read and write semantic HTML
 
 ## Course Outline
-1. Introduction
+1. [Introduction](lesson-01)
 2. Hello There
 3. HTML Tags
 4. Block/Section Elements
