@@ -8,14 +8,14 @@ In this 10 part series where we will explore what HTML is and how we can use it 
 
 ## Course Outline
 1. [Introduction](lesson-01)
-2. Hello There
-3. HTML Tags
-4. Block/Section Elements
-5. Content Elements
-6. Meta Tags 
-7. URL Paths
-8. Document Outline & The DOM
-9. Tips, Tricks & Hacks
-10. Wrapping Up
+2. *Hello There (Under development...)*
+3. *HTML Tags (Under development...)*
+4. *Block/Section Elements (Under development...)*
+5. *Content Elements (Under development...)*
+6. *Meta Tags (Under development...)*
+7. *URL Paths (Under development...)*
+8. *Document Outline & The DOM (Under development...)*
+9. *Tips, Tricks & Hacks (Under development...)*
+10. *Wrapping Up (Under development...)*
 
 At the end of the course, you should be able to make a basic website with HTML alone.
