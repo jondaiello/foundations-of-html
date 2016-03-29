@@ -1,4 +1,4 @@
-# 02: Hello There
+# Lesson 02: Hello There
 
 ## Software You’ll Need
 To get started, we’ll need two pieces of software to work on our project:
