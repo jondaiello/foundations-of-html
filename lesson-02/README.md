@@ -19,4 +19,4 @@ We’re going to dive right in and build our very first HTML web page.
 ### Project Workspace
 First, let’s create a project folder where we will store our project files. In my case, I’m going to place it on my desktop and name it `fundamentals-of-html`.
 
-Next, I'll create a new file in that folder called `index.html`.
+Next, I'll create a new file in that folder and name it `index.html`.
