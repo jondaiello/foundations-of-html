@@ -9,7 +9,7 @@ In this 10 part series where we will explore what HTML is and how we can use it 
 - People who know a little bit, but want to have a better foundation of what HTML actually is, and what it can do.
 
 ## Project Files
-Every project has freely accessible project files associated with it. They are all stored on Github, and freely accessible.
+Every project has freely accessible project files associated with it. They are all stored on the [Foundations of HTML](https://github.com/jondaiello/foundations-of-html) Github repository, and freely accessible.
 
 ## So, what is HTML?
 Well, let’s start at the very basis. Because, if we don’t want any assumptions to be made. HTML stands for HyperText Markup Language, which means it’s a language of text that your web browser uses to show you content on the web.
@@ -19,6 +19,6 @@ Whenever you browse the internet by going to a website, you do it through a web 
 ## HTML History
 HTML was created back in 1991 by Tim-Berners Lee who was a physicist at CERN. He created HTML with the hopes of connecting computers so that people around the world could access data no matter what computer they were on. Today, we’re reaping the benefits of his vision and forethought. Thanks Tim!
 
-HTML has seen many revisions over it’s life, and today the industry standard is version 5, which is typically referred to as HTML 5. The World Wide Web Consortium (W3C) is the author of a specification that everyone from web browser makers to web developers follow as a guide on how to build for the web. You can explore the specification here: https://www.w3.org/TR/html5/ It’s a bit overwhelming, so that’s why we’ve put together this fundamentals course for you. 
+HTML has seen many revisions over it’s life, and today the industry standard is version 5, which is typically referred to as HTML 5. The World Wide Web Consortium (W3C) is the author of a specification that everyone from web browser makers to web developers follow as a guide on how to build for the web. You can always [explore the specification](https://www.w3.org/TR/html5/), but it’s a bit overwhelming. That’s exactly why we’ve put together this fundamentals course for you. 
 
 I hope you enjoy it!
