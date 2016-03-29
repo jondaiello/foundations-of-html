@@ -1,7 +1,7 @@
 # Lesson 01: Introduction
 Hello, and welcome to Bytes & Bolts video course: Fundamentals of HTML. I’m your host, Jon Daiello (pronounced die-yellow).
 
-In this 10 part series where we will explore what HTML is and how we can use it to build the web. This is a fundamentals course, which means it will cover the very basics of HTML, and ensure you have a firm grasp on how to use it.
+In this 10 part series we will explore what HTML is and how we can use it to build the web. This is a fundamentals course, which means it will cover the very basics of HTML, and ensure you have a firm grasp on how to use it.
 
 ## Who is this course for?
 - Well this course is for:
