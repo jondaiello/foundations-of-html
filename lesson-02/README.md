@@ -23,7 +23,7 @@ Next, I'll create a new file in our folder and name it `index.html` and open it 
 
 ### Writing HTML
 With our file open we'll begin by declaring what type of HTML this document will use. We do that by typing:
-```
+```html
 <!doctype html>
 ```
 This is an important step as the code we're writing is specific to HTML5, and this line of code tells the browsers that's what we're writing.
@@ -35,7 +35,7 @@ Lets put this to practical use by finishing our demo.
 ###### HTML
 
 Start a new line, and add our `<html>` tags:
-```
+```html
 <!doctype html>
 <html>
 </html>
@@ -44,7 +44,7 @@ This defines the scope of our page, and tells the browser where to start and sto
 
 ###### Head & Body
 Inside our `<html>` element we'll add our opening and closing `<head>` and `<body>` tags.
-```
+```html
 <!doctype html>
 <html>
   <head>
