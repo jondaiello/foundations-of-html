@@ -22,7 +22,11 @@ First, let’s create a project folder where we will store our project files. In
 Next, I'll create a new file in our folder and name it `index.html` and open it in your favorite code editor.
 
 ### Writing HTML
-With our file open we'll begin by declaring what type of HTML this document will use. We do that by typing `<!doctype html>`. This is an important step as the code we're writing is specific to HTML5, and this line of code tells the browsers that's what we're writing.
+With our file open we'll begin by declaring what type of HTML this document will use. We do that by typing:
+```
+<!doctype html>
+```
+This is an important step as the code we're writing is specific to HTML5, and this line of code tells the browsers that's what we're writing.
 
 HTML elements are written using "tags". Elements either "wrap" around an element with an opening and closing tag or exist in a single tag. For example: `<element>Element contents</element>` or `<element attribute="Element Contents" />`.
 
