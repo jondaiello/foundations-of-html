@@ -12,7 +12,7 @@ Most operating systems come with a web browser pre-installed like [Internet Expl
 For this course we’ll be using Chrome to view our projects.
 
 ## Let’s Jump In!
-Before we get started learning the nitty-gritty of ‘how’ and ‘why’ we do HTML, I wanted to start off with some inspiration for you. Everyone loves to accomplish something and it serves to keep the momentum going. So this lesson will focus on doing HTML.
+Before we get started learning the full depth behind ‘how’ and ‘why’ we do HTML, I wanted to start off with some inspiration for you. Everyone loves to accomplish something and it serves to keep the momentum going. So this lesson will focus on *doing* HTML with brief descriptions of what it all means.
 
 We’re going to dive right in and build our very first HTML web page.
 
