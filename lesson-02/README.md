@@ -30,7 +30,7 @@ Lets put this to practical use by finishing our demo.
 
 ###### HTML
 
-Start a new line, and add our '<html>' tags:
+Start a new line, and add our `<html>` tags:
 ```
 <!doctype html>
 <html>
