@@ -19,4 +19,36 @@ We’re going to dive right in and build our very first HTML web page.
 ### Project Workspace
 First, let’s create a project folder where we will store our project files. In my case, I’m going to place it on my desktop and name it `fundamentals-of-html`.
 
-Next, I'll create a new file in that folder and name it `index.html`.
+Next, I'll create a new file in our folder and name it `index.html` and open it in your favorite code editor.
+
+### Writing HTML
+With our file open we'll begin by declaring what type of HTML this document will use. We do that by typing `<!doctype html>`. This is an important step as the code we're writing is specific to HTML5, and this line of code tells the browsers that's what we're writing.
+
+HTML elements are written using "tags". Elements either "wrap" around an element with an opening and closing tag or exist in a single tag. For example: `<element>Element contents</element>` or `<element attribute="Element Contents" />`.
+
+Lets put this to practical use by finishing our demo.
+
+###### HTML
+
+Start a new line, and add our '<html>' tags:
+```
+<!doctype html>
+<html>
+</html>
+```
+This defines the scope of our page, and tells the browser where to start and stop interpreting our HTML.
+
+###### Head & Body
+Inside our `<html>` element we'll add our opening and closing `<head>` and `<body>` tags.
+```
+<!doctype html>
+<html>
+  <head>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+I've indented my `<head>` and `<body>` tags to help me (and others viewing my code) to visualize what's going on. It's usually best practice to do that. I prefer 2 space indentation for "nested" elements. In Atom there's a preference setting for this, and other code editors typically allow you to personalize this.
+
