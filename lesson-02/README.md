@@ -56,3 +56,38 @@ Inside our `<html>` element we'll add our opening and closing `<head>` and `<bod
 
 I've indented my `<head>` and `<body>` tags to help me (and others viewing my code) to visualize what's going on. It's usually best practice to do that. I prefer 2 space indentation for "nested" elements. In Atom there's a preference setting for this, and other code editors typically allow you to personalize this.
 
+Inside of our `<head>` element we'll add a `<title>` tag. This will tell the browser what the title of our page is.
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <title>Hello There!</title>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+Then, inside of our `<body>` element, we'll add some content. We'll make use of a headline and paragraph element.
+
+```html
+<!doctype html>
+<html>
+  <head>
+    <title>Hello There!</title>
+  </head>
+  <body>
+    <h1>Hello There!</h1>
+    <p>Welcome to my brand new web page!</p>
+  </body>
+</html>
+```
+
+###### View Your Page
+
+Go ahead and use your favorite web browser to open up your new `index.html` file to see the results. (Typically this is done through either dragging the file into the address bar of the browser, or by using the menu option: File > Open menu.) Pretty fantastic!
+
+You should be impressed. You just built a web page by hand.
+
+In the next lesson, we'll dig into what we've done in our `index.html` file and the reasons why.
