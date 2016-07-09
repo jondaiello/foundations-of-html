@@ -8,7 +8,7 @@ In this 10 part series where we will explore what HTML is and how we can use it 
 
 ## Course Outline
 1. [Introduction](lesson-01)
-2. *Hello There (Under development...)*
+2. [Hello There](lesson-02)
 3. *HTML Tags (Under development...)*
 4. *Block/Section Elements (Under development...)*
 5. *Content Elements (Under development...)*
