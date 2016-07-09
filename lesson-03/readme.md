@@ -18,9 +18,14 @@ As we mentioned above, normal elements have two parts: an opening tag, and a clo
 In reality there are three parts to our element:
 
 1. Opening Tag: `<h1>`
-2. The content we want to display: `Hello There!`
-3. The Closing Tag: `</h1>`
+2. Content we want to display: `Hello There!`
+3. Closing Tag: `</h1>`
 
-### Opening & Closing Tags
+## Basic HTML Tags
 
-HTML tags start with a less than sign `<` and and with a greater than sign `>`. 
+The first character of an HTML tag is the less than sign `<` and the last character is a greater than sign `>`.
+
+Immediately following the `<` character is the name of the tag. In this case, it's `h1`.
+
+After the name of the tag we end the tag with the `>` symbol.
+
